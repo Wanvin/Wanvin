@@ -11,7 +11,7 @@ I work across the full stack, with experience in C#/.NET, JavaScript, TypeScript
 I value clear technical decisions, maintainable architecture, practical problem-solving, and software that solves real business problems.
 
 
-🛠️ ### Languages & Frameworks
+ ### Languages & Frameworks 🛠️
 
 <p>
   <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,nextjs,nodejs,bun" alt="C#, .NET, JavaScript, TypeScript, React, Next.js, Node.js and Bun" />
@@ -23,7 +23,7 @@ Frontend: React, Next.js
 Desktop Development: WPF
 
 
-🗄️ ### Databases
+ ### Databases 🗄️
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="PostgreSQL and MySQL" />
@@ -36,7 +36,7 @@ Reporting and query optimization
 Data integration and business rules
 
 
-🚀 ### DevOps, Deployment & Infrastructure
+ ### DevOps, Deployment & Infrastructure 🚀
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,linux,bash,git,github" alt="Docker, Linux, Bash, Git and GitHub" />
@@ -50,7 +50,7 @@ Application configuration and troubleshooting
 Build, runtime, and deployment workflows
 
 
-🧩 ### Software Engineering
+ ### Software Engineering 🧩
 Object-Oriented Programming (OOP)
 SOLID principles and Clean Architecture
 REST APIs and system integrations
@@ -58,7 +58,7 @@ Separation of concerns and maintainability
 AI-assisted development, code review, and technical analysis
 
 
-💼 ### Professional Background
+ ### Professional Background 💼
 
 Database Administration: SQL, data troubleshooting, and database operations.
 Implementation & Technical Support: Business rules, system configuration, issue investigation, and operational problem-solving.
@@ -66,7 +66,7 @@ Software Development: Internal systems, APIs, integrations, and business-oriente
 Working across these areas helps me connect technical implementation with business requirements and real-world operational constraints.
 
 
-🎯 ### Current Focus
+ ### Current Focus 🎯
 
 Deepening my knowledge of C#/.NET and software architecture.
 Building full-stack applications with React and Next.js.
