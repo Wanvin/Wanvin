@@ -3,7 +3,7 @@ Building software that connects business needs, reliable systems, and maintainab
 
 
 
-👨‍💻 ###About Me
+ ###About Me 👨‍💻
 
 I'm a software developer with experience across database administration, technical support, system implementation, and software development.
 My background gives me a broad perspective on the software lifecycle — from understanding business requirements and investigating problems to designing, developing, configuring, and deploying applications.
